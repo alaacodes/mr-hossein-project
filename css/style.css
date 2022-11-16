@@ -62,7 +62,7 @@
     width: 500px;
     position: absolute;
     left: 12%;
-    top: calc(50% - 250px);
+    top: 250px;
 }
 
 #content h2 {
